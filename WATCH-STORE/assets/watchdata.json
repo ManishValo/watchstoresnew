@@ -1,0 +1,136 @@
+[
+    {
+      "id": 1,
+      "title": "Jazzmaster",
+      "price": 7455,
+      "image": "assets/img/product1.png",
+      "category": "Men",
+      "rating": {
+        "rate": 4.5,
+        "count": 12
+      }
+    },
+    {
+      "id": 2,
+      "title": "Submariner",
+      "price": 1850,
+      "image": "assets/img/product2.png",
+      "category": "Men",
+      "rating": {
+        "rate": 4.2,
+        "count": 95
+      }
+    },
+    {
+      "id": 3,
+      "title": "Daytona",
+      "price": 5580,
+      "image": "assets/img/product3.png",
+      "category": "Men",
+      "rating": {
+        "rate": 4.7,
+        "count": 110
+      }
+    },
+    {
+      "id": 4,
+      "title": "Deepsea",
+      "price": 2150,
+      "image": "assets/img/product4.png",
+      "category": "Men",
+      "rating": {
+        "rate": 4.0,
+        "count": 80
+      }
+    },
+    {
+        "id": 5,
+        "title": "Ingersoll",
+        "price": 2250,
+        "image": "assets/img/product5.png",
+        "category": "Men",
+        "rating": {
+          "rate": 4.0,
+          "count": 80
+        }
+      },
+      {
+        "id": 6,
+        "title": "Air-King",
+        "price": 2250,
+        "image": "assets/img/product6.png",
+        "category": "Men",
+        "rating": {
+          "rate": 4.0,
+          "count": 80
+        }
+      },
+        {
+          "id": 7,
+          "title": "Celini",
+          "price": 4050,
+          "image": "assets/img/new2.png",
+          "category": "Women",
+          "rating": {
+            "rate": 4.5,
+            "count": 120
+          }
+        },
+        {
+          "id": 8,
+          "title": "Rose Gold",
+          "price": 8550,
+          "image": "assets/img/new3.png",
+          "category": "Women",
+          "rating": {
+            "rate": 4.2,
+            "count": 95
+          }
+        },
+        {
+          "id": 9,
+          "title": "Longines",
+          "price": 1980,
+          "image": "assets/img/new4.png",
+          "category": "Women",
+          "rating": {
+            "rate": 4.7,
+            "count": 110
+          }
+        },
+        {
+          "id": 10,
+          "title": "Datejust",
+          "price": 2250,
+          "image": "assets/img/new5.png",
+          "category": "Women",
+          "rating": {
+            "rate": 4.0,
+            "count": 80
+          }
+        },
+        {
+            "id": 11,
+            "title": "Day-Date",
+            "price": 1110,
+            "image": "assets/img/new6.png",
+            "category": "Women",
+            "rating": {
+              "rate": 4.0,
+              "count": 80
+            }
+          },
+          {
+            "id": 12,
+            "title": "Explorer",
+            "price": 5250,
+            "image": "assets/img/new1.png",
+            "category": "Women",
+            "rating": {
+              "rate": 4.0,
+              "count": 80
+            }
+          }
+    
+
+  ]

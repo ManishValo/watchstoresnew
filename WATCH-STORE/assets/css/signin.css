@@ -1,0 +1,108 @@
+.login-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 350px;
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Logo & Name */
+.Logo-name{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px auto;
+}
+.Logo-name h2 {
+    text-align: center;
+    color: #2c3e50;
+    /* margin-bottom: 10px; */
+}
+.Logo-name a{
+    text-decoration: none;
+}
+.Logo-name img{
+     height: 40px;
+    width: 40px;
+}
+
+
+/* Form fields */
+.username-pass {
+    margin-bottom: 15px;
+}
+
+.username-pass label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #333;
+}
+
+.input {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 8px;
+    background-color: #f9f9f9;
+}
+
+.input i {
+    margin-right: 10px;
+    color: #555;
+}
+
+.input input {
+    border: none;
+    outline: none;
+    flex: 1;
+    background: transparent;
+    font-size: 14px;
+}
+
+/* Button styling */
+.submit button {
+    width: 100%;
+    padding: 10px;
+    background-color: #626664;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.submit button:hover {
+    background-color: #080808;
+}
+
+/* Sign up link */
+.signup {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.signup span {
+    margin-right: 5px;
+    color: #555;
+}
+
+.signup a {
+    color: #575555;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.signup a:hover {
+    text-decoration: underline;
+}
+
+/* Login page end */
